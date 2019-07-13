@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FindMyAgeKt</string>
+    <string name="your_age">Your age shows here</string>
+    <string name="enter_dob">Enter your DOB</string>
+    <string name="get_age">Get My Age</string>
+    <string name="age_is">Your age is %1$d</string>
+    <string name="invalid_input">Invalid Input</string>
+    <string name="something_went_wrong">Oops!!! Something went wrong!!!</string>
+</resources>
